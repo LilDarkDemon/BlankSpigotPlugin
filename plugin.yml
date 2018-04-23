@@ -1,0 +1,7 @@
+name: SpigotBlankPlugin	
+main: com.meeku.tutorialPlugin.SpigotBlankPlugin
+version: 1.2
+commands:
+   kit:
+      description: Your description
+      usage: /kit
